@@ -6,3 +6,9 @@ __pycache__/
 
 # API Keys
 config.py
+
+# data
+data/
+
+# DS_Store
+.DS_Store
